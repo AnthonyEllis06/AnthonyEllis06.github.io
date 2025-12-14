@@ -1,1 +1,4 @@
-results here
+
+---
+## Results & Conclusion
+The primary success of the application shows the results of the enhancements by hosting a live state of the data structure on the client side. The simplicity of the use case for this application is integral to success of the application as a whole. This is because I would eventually like to be able to deploy this application to a small form factor device such as a raspberry pi that any small business could implement into their service business. The lightweight nature of the whole application was a key design goal from the beginning and this data structure enhancement really embodies that goal. The application is able to run very smoothly and while is very simple in design it is able to effectively showcase the appointments and client info in a reactive manner.

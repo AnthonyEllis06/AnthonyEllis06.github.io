@@ -5,7 +5,7 @@
 layout: default
 title: Home
 ---
-
+<a href="https://github.com/AnthonyEllis06/EnchantedBeautyBar">Capstone Project</a>
 {% include self_assessment.md %}
 {% include code_review.md %}
 {% include artifact_software_engineering.md %}

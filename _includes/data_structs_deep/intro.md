@@ -1,1 +1,3 @@
-intro here
+
+---
+I really enjoyed my Data Structures and Algorithms class, it really helped me solidify my choice to pursue a career in Computer Science. The class was incredibly difficult conceptually. Recursion, binary trees, and big O notation are to name a few topic areas that were just hard to wrap my head around. However, this newfound knowledge really helped me understand how computers use rapid function calls and data manipulation that creates this magical black box we all use daily. That being said I was very excited to create my own custom data structure from scratch and implement it into a real world application. I want to cover three main areas where I was able to enhance my original artifact, the data structure design and choice, the search and traversal algorithms, and the efficiency improvements.
