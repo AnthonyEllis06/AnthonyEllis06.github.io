@@ -1,3 +1,5 @@
+
+---
 # Installation Instructions
 
 ## requirements 
@@ -8,7 +10,7 @@
 - [docker installation page](https://docs.docker.com/get-docker/)
 - [git installation page](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-**_ installation steps **_
+## installation steps 
 -1. open a terminal window (Ctrl + Alt + T on Linux, Command Prompt or Powershell on Windows)
 -2. navigate to the directory you want to clone the repository to using the `cd` command
 -3. run the following command to clone the repository:
@@ -32,7 +34,7 @@ docker compose up
 docker compose down
 ```
 
-**_ Additional Notes **_
-- Defualt login credentials for the admin panel are:
+## Additional Notes 
+- Defualt login credentials for the admin page are:
     - username: admin
     - password: adminpassword
