@@ -27,7 +27,7 @@ cd EnchantedBeautyBar
 docker compose up
 //to run in detached mode, add the -d flag
 ```
--6. once the container is built and running, you can access the web application by opening a web browser and navigating to `http://localhost:4000`
+-6. once the container is built and running, you can access the web application by opening a web browser and navigating to `http://localhost:8000`
     Note: navigate to 'localhost:4000/admin' to access the admin panel
 -7. to stop the docker container, run the following command in the terminal window:
 ```
@@ -35,6 +35,6 @@ docker compose down
 ```
 
 ## Additional Notes 
-- Defualt login credentials for the admin page are:
+- Default login credentials for the admin page are:
     - username: admin
     - password: adminpassword

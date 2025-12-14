@@ -1,1 +1,3 @@
-intro here
+
+---
+I made two major enhancements to my original database artifact, first I updated the API architecture to follow RESTful API principles and second I converted from using a mongodb database to a postgresql database. The primary challenge I faced during this enhancement was after the initial django setup, switching the database from default SQLite to postgresql. Due to having an already built API structure with the sqlite database I was concerned that changing the database would break the API call structure, however there were just a few necessary changes that needed to be made to the database connection settings in django. I then just rebuilt the database schema using django's built in database management tools and my endpoints worked. I chose to follow the restful API principles and separate my API calls into two different endpoints, this was primarily done to help with data integrity and make the API calls more lean and efficient.

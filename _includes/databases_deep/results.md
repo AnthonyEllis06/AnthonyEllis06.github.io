@@ -1,1 +1,4 @@
-results here
+
+---
+## Results
+There were three main positive outcomes that came from the enhancements I made to my original database artifact. The first positive outcome was came from switching from a simple MongoDB script that had no interface to visualize the data to a full Django data management tool that could easily visualize the data based on the database schema defined. The second positive outcome was increased data integrity due to following the RESTful API principles. The third positive outcome was the ability to more easily deploy the application due to the widespread use of PostgreSQL on popular cloud platforms such as AWS.
