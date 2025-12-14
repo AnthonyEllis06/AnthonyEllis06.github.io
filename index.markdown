@@ -6,4 +6,11 @@ layout: default
 title: Home
 ---
 
-[**Code Review Video**](/programming/2025/12/07/POST-ONE.html)
+{% include self_assessment.md %}
+{% include code_review.md %}
+{% include artifact_software_engineering.md %}
+{% include artifact_databases.md %}
+{% include artifact_data_structures.md %}
+{% include install_instructions.md %}
+{% include references.md %}
+
